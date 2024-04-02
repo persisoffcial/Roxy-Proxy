@@ -2,5 +2,5 @@
 
 <h1 align="center">Ultraviolet-App</h1>
 
-Roxy Proxy a Proxy based off of UltraViolet "Your Proxy Your Rules"
+<h1 align="center">Roxy Proxy a Proxy based off of UltraViolet "Your Proxy Your Rules"</h1>
 
