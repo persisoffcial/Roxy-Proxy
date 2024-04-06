@@ -2,5 +2,5 @@
 
 <h1 align="center">Roxy Proxy</h1>
 
-<h1 align="center">Roxy Proxy a Proxy based off of UltraViolet "Your Proxy Your Choice"</h1>
+<h1 align="center">Roxy Proxy a Proxy based off of UltraViolet</h1>
 
